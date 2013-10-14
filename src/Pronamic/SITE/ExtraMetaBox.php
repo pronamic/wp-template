@@ -20,7 +20,7 @@ class Pronamic_SITE_ExtraMetaBox {
 		
 		add_meta_box(
 			'site_extra',
-			__( 'KWPN Extra', 'wp_site' ),
+			__( 'SITE Extra', 'wp_site' ),
 			array( $this, 'view_site_extra' ),
 			'page',
 			'side'
