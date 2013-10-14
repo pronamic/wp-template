@@ -1,0 +1,21 @@
+.site-image-upload-holder {
+	border:1px dashed #ccc;
+	padding:20px;
+	margin-top:5px;
+}
+
+.site-image-upload-button {
+	display:block;
+	margin:0 auto;
+	text-align:center;
+	background:#fff;
+	padding:15px;
+	border:1px solid #ccc;
+	text-decoration:none;
+	border-radius:3px;
+	color:#666;
+}
+
+.site-image-upload-preview img {
+	width:100%;
+}
